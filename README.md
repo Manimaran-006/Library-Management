@@ -23,15 +23,19 @@ In this module the user can cancel their name which is registered for the Book.
 Star UML
 ### UML Diagrams:
 UseCase Diagram
-<img width="822" height="781" alt="UseCaseDiagram1" src="https://github.com/user-attachments/assets/b515dccd-4425-475d-910d-d20f8463f591" />
+<img width="799" height="870" alt="image" src="https://github.com/user-attachments/assets/de51bcf3-056b-418a-b776-2d7ae7980dc4" />
+
 Class Diagram
-<img width="836" height="832" alt="ClassDiagram1" src="https://github.com/user-attachments/assets/3bb7a849-da1f-42bf-bfef-17066f7b874a" />
+<img width="814" height="897" alt="image" src="https://github.com/user-attachments/assets/a531540f-a560-4f82-a4bf-117895075df4" />
+
 Communication diagram
-<img width="926" height="801" alt="CommunicationDiagram1" src="https://github.com/user-attachments/assets/a655795a-7ca4-4112-bb7b-2ad6feb4e874" />
+<img width="817" height="681" alt="image" src="https://github.com/user-attachments/assets/c182046f-4ca1-483d-8c3e-1ce180572623" />
+
 Package diagram
-<img width="933" height="773" alt="PackageDiagram1" src="https://github.com/user-attachments/assets/4dde6e08-d2fa-49c0-8032-40aaf3386054" />
+<img width="607" height="522" alt="image" src="https://github.com/user-attachments/assets/e13af71e-7715-40fc-ac5a-84e02c84291c" />
+
 Sequence diagram
-<img width="926" height="808" alt="SequenceDiagram1" src="https://github.com/user-attachments/assets/5829cbf9-b8a7-4898-8afa-988c32d76b11" />
+<img width="444" height="373" alt="image" src="https://github.com/user-attachments/assets/7bbd6f0a-94a6-4266-9046-5aeb00adb219" />
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
